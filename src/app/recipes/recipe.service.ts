@@ -23,7 +23,7 @@ export class RecipeService {
       ]),
     new Recipe(
       "Blueberry Pie",
-      "Its so delicious!",
+      "Its VERY delicious!",
       "https://upload.wikimedia.org/wikipedia/commons/a/ac/Banjo_Shark_recipe.jpg",
       [
         new Ingredient('Dough', 1),
